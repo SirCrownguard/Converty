@@ -2,6 +2,9 @@
 
 Converty is an open-source tool that converts **PDF to PPTX** and **PPTX to PDF**. It is currently available only for **Windows**, but in the future, support for **Linux and macOS may be added**.
 
+![image](https://github.com/user-attachments/assets/899e0bb2-0d03-4eb1-b915-8783b74f35b5)
+
+
 ## How It Works
 - Converts **PDF pages to PowerPoint slides** by extracting images from each page and inserting them into slides.
 - Converts **PPTX slides to PDF** using PowerPoint automation or.
