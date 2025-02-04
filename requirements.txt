@@ -1,0 +1,7 @@
+pdf2image
+pillow
+python-pptx
+tqdm
+colorama
+tk
+comtypes; sys_platform == "win32"
