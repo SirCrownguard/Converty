@@ -7,7 +7,7 @@ Converty is an open-source tool that converts **PDF to PPTX** and **PPTX to PDF*
 
 ## How It Works
 - Converts **PDF pages to PowerPoint slides** by extracting images from each page and inserting them into slides.
-- Converts **PPTX slides to PDF** using PowerPoint automation or.
+- Converts **PPTX slides to PDF** using PowerPoint automation or LibreOffice.
 - Provides a **graphical user interface (GUI)** for easy file selection and conversion.
 
 ## Supported Platforms
@@ -69,7 +69,7 @@ Converty, **PDF'i PPTX'e** ve **PPTX'i PDF'e** dönüştüren açık kaynaklı b
 
 ## Nasıl Çalışır?
 - **PDF sayfalarını PowerPoint slaytlarına dönüştürür**, her sayfanın görüntüsünü alarak PowerPoint'e ekler.
-- **PPTX dosyalarını PDF'ye dönüştürür**, PowerPoint kullanarak.
+-  PowerPoint veya LibreOffice kullanarak **PPTX dosyalarını PDF'ye dönüştürür**.
 - **Kullanıcı dostu bir arayüz** sağlar.
 
 ## Desteklenen Platformlar
