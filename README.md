@@ -1,4 +1,4 @@
-# Converty
+<h1 align="center">Converty</h1>
 
 Converty is an open-source tool that converts **PDF to PPTX** and **PPTX to PDF**. It is currently available only for **Windows**, but in the future, support for **Linux and macOS may be added**.
 
